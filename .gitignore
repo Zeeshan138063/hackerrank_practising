@@ -48,6 +48,8 @@ nosetests.xml
 coverage.xml
 misc.xml
 modules.xml
+vcs.xml
+
 
 *.cover
 *.py,cover
@@ -57,8 +59,8 @@ modules.xml
 # Translations
 *.mo
 *.pot
-.idea/
-
+.idea
+vcs.xml
 # Django stuff:
 *.log
 local_settings.py
