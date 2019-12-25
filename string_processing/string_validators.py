@@ -52,7 +52,6 @@ def string_format(string):
     print(any(c.isupper() for c in string))
 
 
-
 if __name__ == '__main__':
     s = input()
     string_format(s)
